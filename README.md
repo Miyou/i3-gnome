@@ -1,6 +1,6 @@
 # i3-gnome-panel [![Maintenance](https://img.shields.io/maintenance/yes/2018.svg)]()
 
-Allows you to use i3-wm with GNOME 3 Session infrastructure.
+Allows you to use i3-wm with GNOME 3 Session infrastructure and Gnome-panel.
 
 ## Requirements
 * i3-wm
