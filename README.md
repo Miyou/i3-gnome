@@ -1,4 +1,4 @@
-# i3-gnome [![Maintenance](https://img.shields.io/maintenance/yes/2018.svg)]()
+# i3-gnome-panel [![Maintenance](https://img.shields.io/maintenance/yes/2018.svg)]()
 
 Allows you to use i3-wm with GNOME 3 Session infrastructure.
 
@@ -7,9 +7,6 @@ Allows you to use i3-wm with GNOME 3 Session infrastructure.
 * GNOME (3.30.x)
 * GDM (optional, but useful)
 * [GNOME Flashback](https://github.com/jcstr/i3-gnome/wiki/Tips-&-Tricks#gnome-flashback)
-
-## Packages
-[![i3-gnome](https://img.shields.io/aur/version/i3-gnome.svg?label=i3-gnome)](https://aur.archlinux.org/packages/i3-gnome/)
 
 ## Installation from scratch
 Using `make`:
