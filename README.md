@@ -16,6 +16,7 @@ Using `make`:
 * download the repo.
 * on the terminal go to the repo directory.
 * `sudo make install`
+* To get Gnome-panel add to your i3 config `exec --no-startup-id gnome-panel`
 
 ## Troubleshooting
 * Report issues.
